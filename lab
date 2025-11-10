@@ -1,0 +1,10 @@
+The lab/ folder is where you store:
+
+✅ configuration files you saved
+✅ Group Policy screenshots
+✅ Sysmon config
+✅ before/after settings
+✅ file permissions snapshots
+✅ “evidence” of hardening
+
+You generate these locally → upload.
