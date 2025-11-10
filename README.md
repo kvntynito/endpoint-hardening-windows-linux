@@ -64,12 +64,34 @@ Run these PowerShell commands:
 
 Document the results in lab/.
 
+**Linux Validation**
+
+Run:
+
+- sudo lynis audit system
+- sudo ufw status
+- cat /etc/ssh/sshd_config
+- sudo sysctl -a
+
+Upload outputs/screenshots into lab/.
+
 ## 📊 Deliverables
-- Link to your key reports (incident, vuln assessment, detections)
-- Screenshots or short gifs (if any)
+✅ Windows Hardening Baseline
+✅ Linux Hardening Baseline
+✅ Before/after screenshots
+✅ Validation reports (PowerShell, Lynis, auditd)
+✅ Architecture diagram (optional)
+✅ Scripts (Windows auditing / Linux auditing)
 
 ## 🧠 What I Learned
 - Bullet points of concepts/skills you gained - Write what you learned about permissions, policies, configs.
+- How attackers abuse weak configurations
+- How to apply secure baselines without breaking functionality
+- How Windows policies map to enterprise standards
+- How Linux security differs from Windows
+- How to validate hardening and measure improvement
+- Understanding the principle of least privilege (PoLP)
+- How to document system changes clearly and professionally
 
 ## ✅ Next Steps
 - Planned improvements or stretch goals
