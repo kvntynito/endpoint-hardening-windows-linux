@@ -1,4 +1,4 @@
-## Endpoint Hardening>
+## Endpoint Hardening
 
 This project demonstrates practical endpoint hardening on both Windows and Linux systems.
 It includes security baselines, configuration changes, validation steps, and evidence showing how systems were strengthened against common attack vectors.
