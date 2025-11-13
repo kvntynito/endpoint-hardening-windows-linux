@@ -12,10 +12,10 @@ It includes security baselines, configuration changes, validation steps, and evi
 - Strengthen systems against misconfigurations commonly exploited by attackers
 
 ## 📁 What’s Inside
-- docs/       - Baselines, checklists, templates
-- lab/        - Validation outputs, screenshots, before/after comparisons
-- scripts/    - Optional auditing and configuration scripts
-- .github/    - Issue/PR templates
+- docs/ - Baselines, checklists, templates
+- lab/ - Validation outputs, screenshots, before/after comparisons
+- scripts/ - Optional auditing and configuration scripts
+- .github/ - Issue/PR templates
 
 ## 🧪 Lab Setup (Quick Start)
 
